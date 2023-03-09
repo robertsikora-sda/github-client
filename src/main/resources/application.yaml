@@ -1,0 +1,8 @@
+web-client:
+  timeouts-in-millis: 5000
+
+application:
+  github-api-client:
+    base-url: https://api.github.com
+    api-version: 2022-11-28
+    token: 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 #remove then

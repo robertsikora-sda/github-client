@@ -1,0 +1,5 @@
+application:
+  github-api-client:
+    base-url: http://localhost:18888
+    api-version: 2022-11-28
+    token: test
