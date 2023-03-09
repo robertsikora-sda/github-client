@@ -1,6 +1,3 @@
-web-client:
-  timeouts-in-millis: 5000
-
 application:
   github-api-client:
     base-url: https://api.github.com
